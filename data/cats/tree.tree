@@ -1,0 +1,1337 @@
+root
+├── Gymnaziální vzdělávání
+│   ├── Gymnaziální vzdělávání|Kurikulum
+│   │   ├── Gymnaziální vzdělávání|Kurikulum|Proces tvorby
+│   │   └── Gymnaziální vzdělávání|Kurikulum|Příklady zpracování
+│   ├── Gymnaziální vzdělávání|Okolí
+│   │   ├── Gymnaziální vzdělávání|Okolí|Firmy
+│   │   ├── Gymnaziální vzdělávání|Okolí|Inspirace - pohled za hranice
+│   │   ├── Gymnaziální vzdělávání|Okolí|Instituce
+│   │   ├── Gymnaziální vzdělávání|Okolí|Lidé
+│   │   ├── Gymnaziální vzdělávání|Okolí|Ostatní
+│   │   ├── Gymnaziální vzdělávání|Okolí|Projekty
+│   │   ├── Gymnaziální vzdělávání|Okolí|Tradice a zkušenosti
+│   │   │   ├── Gymnaziální vzdělávání|Okolí|Tradice a zkušenosti|Inspirace a zkušenosti
+│   │   │   ├── Gymnaziální vzdělávání|Okolí|Tradice a zkušenosti|Osobnosti
+│   │   │   └── Gymnaziální vzdělávání|Okolí|Tradice a zkušenosti|Reformy
+│   │   ├── Gymnaziální vzdělávání|Okolí|Zajímavé rozhovory
+│   │   └── Gymnaziální vzdělávání|Okolí|Školy
+│   ├── Gymnaziální vzdělávání|Učitel
+│   │   ├── Gymnaziální vzdělávání|Učitel|Didaktika
+│   │   ├── Gymnaziální vzdělávání|Učitel|Hodnocení žáků
+│   │   │   ├── Gymnaziální vzdělávání|Učitel|Hodnocení žáků|Literatura
+│   │   │   ├── Gymnaziální vzdělávání|Učitel|Hodnocení žáků|Různé formy hodnocení
+│   │   │   └── Gymnaziální vzdělávání|Učitel|Hodnocení žáků|Sebehodnocení žáka
+│   │   ├── Gymnaziální vzdělávání|Učitel|Inkluzivní vzdělávání
+│   │   │   ├── Gymnaziální vzdělávání|Učitel|Inkluzivní vzdělávání|Ostatní menšiny
+│   │   │   ├── Gymnaziální vzdělávání|Učitel|Inkluzivní vzdělávání|Vzdělávání Romů
+│   │   │   └── Gymnaziální vzdělávání|Učitel|Inkluzivní vzdělávání|Vzdělávání cizinců
+│   │   ├── Gymnaziální vzdělávání|Učitel|Management
+│   │   ├── Gymnaziální vzdělávání|Učitel|Nadaní žáci
+│   │   │   ├── Gymnaziální vzdělávání|Učitel|Nadaní žáci|Legislativa a poradenství
+│   │   │   ├── Gymnaziální vzdělávání|Učitel|Nadaní žáci|Metodická podpora
+│   │   │   └── Gymnaziální vzdělávání|Učitel|Nadaní žáci|Teorie a výzkum
+│   │   ├── Gymnaziální vzdělávání|Učitel|Pedagogika
+│   │   ├── Gymnaziální vzdělávání|Učitel|Prevence
+│   │   ├── Gymnaziální vzdělávání|Učitel|Psychologie
+│   │   ├── Gymnaziální vzdělávání|Učitel|Speciální vzdělávání
+│   │   └── Gymnaziální vzdělávání|Učitel|Vzdělávání žáků cizinců
+│   ├── Gymnaziální vzdělávání|Výuka
+│   │   ├── Gymnaziální vzdělávání|Výuka|Doplňující vzdělávací obory
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Doplňující vzdělávací obory|Deskriptivní geometrie
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Doplňující vzdělávací obory|Deskriptivní geometrie|Kuželosečky
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Doplňující vzdělávací obory|Deskriptivní geometrie|Kótované promítání
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Doplňující vzdělávací obory|Deskriptivní geometrie|Mongeovo promítání
+│   │   │   │   └── Gymnaziální vzdělávání|Výuka|Doplňující vzdělávací obory|Deskriptivní geometrie|Pravoúhlá axonometrie
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Doplňující vzdělávací obory|Dramatický obor
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Doplňující vzdělávací obory|Dramatický obor|Dramatická a inscenační tvorba
+│   │   │   │   └── Gymnaziální vzdělávání|Výuka|Doplňující vzdělávací obory|Dramatický obor|Dramatické umění
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Doplňující vzdělávací obory|Etická výchova
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Doplňující vzdělávací obory|Etická výchova|Osvojení postojů, hodnot, mravního chování
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Doplňující vzdělávací obory|Etická výchova|Spolupráce, přátelství, prosociální chování, tolerance
+│   │   │   │   └── Gymnaziální vzdělávání|Výuka|Doplňující vzdělávací obory|Etická výchova|Řešení problémových situací, komunikační dovednosti
+│   │   │   └── Gymnaziální vzdělávání|Výuka|Doplňující vzdělávací obory|Latina
+│   │   │       ├── Gymnaziální vzdělávání|Výuka|Doplňující vzdělávací obory|Latina|Hláskosloví a morfologie
+│   │   │       ├── Gymnaziální vzdělávání|Výuka|Doplňující vzdělávací obory|Latina|Kulturně-historické reálie
+│   │   │       ├── Gymnaziální vzdělávání|Výuka|Doplňující vzdělávací obory|Latina|Práce s latinským textem
+│   │   │       ├── Gymnaziální vzdělávání|Výuka|Doplňující vzdělávací obory|Latina|Slovní zásoba a slovotvorba
+│   │   │       └── Gymnaziální vzdělávání|Výuka|Doplňující vzdělávací obory|Latina|Syntax
+│   │   ├── Gymnaziální vzdělávání|Výuka|Gramotnosti
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Gramotnosti|Finanční gramotnost
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Gramotnosti|Matematická gramotnost
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Gramotnosti|Přírodovědná gramotnost
+│   │   │   └── Gymnaziální vzdělávání|Výuka|Gramotnosti|Čtenářská gramotnost
+│   │   ├── Gymnaziální vzdělávání|Výuka|Informační a komunikační technologie
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Informační a komunikační technologie|Digitální technologie
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Informační a komunikační technologie|Zdroje a vyhledávání informací, komunikace
+│   │   │   └── Gymnaziální vzdělávání|Výuka|Informační a komunikační technologie|Zpracování a prezentace informací
+│   │   ├── Gymnaziální vzdělávání|Výuka|Jazyk a jazyková komunikace
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Jazyk a jazyková komunikace|Cizí jazyk
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Jazyk a jazyková komunikace|Cizí jazyk|Interaktivní řečové dovednosti
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Jazyk a jazyková komunikace|Cizí jazyk|Produktivní řečové dovednosti
+│   │   │   │   └── Gymnaziální vzdělávání|Výuka|Jazyk a jazyková komunikace|Cizí jazyk|Receptivní řečové dovednost
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Jazyk a jazyková komunikace|Další cizí jazyk
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Jazyk a jazyková komunikace|Další cizí jazyk|Interaktivní řečové dovednosti
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Jazyk a jazyková komunikace|Další cizí jazyk|Produktivní řečové dovednosti
+│   │   │   │   └── Gymnaziální vzdělávání|Výuka|Jazyk a jazyková komunikace|Další cizí jazyk|Receptivní řečové dovednosti
+│   │   │   └── Gymnaziální vzdělávání|Výuka|Jazyk a jazyková komunikace|Český jazyk a literatura
+│   │   │       ├── Gymnaziální vzdělávání|Výuka|Jazyk a jazyková komunikace|Český jazyk a literatura|Jazyk a jazyková komunikace
+│   │   │       └── Gymnaziální vzdělávání|Výuka|Jazyk a jazyková komunikace|Český jazyk a literatura|Literární komunikace
+│   │   ├── Gymnaziální vzdělávání|Výuka|Klíčové kompetence
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Klíčové kompetence|Kompetence k podnikavosti
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Klíčové kompetence|Kompetence k řešení problémů
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Klíčové kompetence|Kompetence komunikativní
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Klíčové kompetence|Kompetence k učení
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Klíčové kompetence|Kompetence občanská
+│   │   │   └── Gymnaziální vzdělávání|Výuka|Klíčové kompetence|Kompetence sociální a personální
+│   │   ├── Gymnaziální vzdělávání|Výuka|Kurzy
+│   │   ├── Gymnaziální vzdělávání|Výuka|Matematika a její aplikace
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Matematika a její aplikace|Argumentace a ověřování
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Matematika a její aplikace|Geometrie
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Matematika a její aplikace|Práce s daty, kombinatorika, pravděpodobnost
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Matematika a její aplikace|Závislosti a funkční vztahy
+│   │   │   └── Gymnaziální vzdělávání|Výuka|Matematika a její aplikace|Číslo a proměnná
+│   │   ├── Gymnaziální vzdělávání|Výuka|Průřezová témata
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Průřezová témata|ENV
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Průřezová témata|MKV
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Průřezová témata|MV
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Průřezová témata|OSV
+│   │   │   └── Gymnaziální vzdělávání|Výuka|Průřezová témata|VMEGS
+│   │   ├── Gymnaziální vzdělávání|Výuka|Příklady dobré praxe
+│   │   ├── Gymnaziální vzdělávání|Výuka|Umění a kultura
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Umění a kultura|Hudební obor
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Umění a kultura|Hudební obor|Produkce
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Umění a kultura|Hudební obor|Recepce a reflexe
+│   │   │   │   └── Gymnaziální vzdělávání|Výuka|Umění a kultura|Hudební obor|Umělecká tvorba a komunikace
+│   │   │   └── Gymnaziální vzdělávání|Výuka|Umění a kultura|Výtvarný obor
+│   │   │       ├── Gymnaziální vzdělávání|Výuka|Umění a kultura|Výtvarný obor|Obrazové znakové systémy
+│   │   │       ├── Gymnaziální vzdělávání|Výuka|Umění a kultura|Výtvarný obor|Umělecká tvorba a komunikace
+│   │   │       └── Gymnaziální vzdělávání|Výuka|Umění a kultura|Výtvarný obor|Znakové systémy výtvarného umění
+│   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Biologie
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Biologie|Biologie bakterií
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Biologie|Biologie hub
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Biologie|Biologie protist
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Biologie|Biologie rostlin
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Biologie|Biologie virů
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Biologie|Biologie člověka
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Biologie|Biologie živočichů
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Biologie|Ekologie
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Biologie|Genetika
+│   │   │   │   └── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Biologie|Obecná biologie
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Chemie
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Chemie|Anorganická chemie
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Chemie|Biochemie
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Chemie|Obecná chemie
+│   │   │   │   └── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Chemie|Organická chemie
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Fyzika
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Fyzika|Elektromagnetické jevy, světlo
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Fyzika|Fyzikální veličiny a jejich měření
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Fyzika|Mikrosvět
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Fyzika|Pohyb těles a jejich vzájemné působení
+│   │   │   │   └── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Fyzika|Stavba a vlastnosti látek
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Geografie
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Geografie|Geografické informace a terénní vyučování
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Geografie|Přírodní prostředí
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Geografie|Regiony
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Geografie|Sociální prostředí
+│   │   │   │   └── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Geografie|Životní prostředí
+│   │   │   └── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Geologie
+│   │   │       ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Geologie|Geologické procesy v litosféře
+│   │   │       ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Geologie|Složení, struktura a vývoj Země
+│   │   │       ├── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Geologie|Voda
+│   │   │       └── Gymnaziální vzdělávání|Výuka|Člověk a příroda|Geologie|Člověk a anorganická příroda
+│   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a společnost
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a společnost|Dějepis
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a společnost|Dějepis|Moderní doba I - situace v letech 1914-1945
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a společnost|Dějepis|Moderní doba II - soudobé dějiny
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a společnost|Dějepis|Osvícenství, revoluce a idea svobody, modernizace společnosti
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a společnost|Dějepis|Počátky novověku
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a společnost|Dějepis|Pravěk
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a společnost|Dějepis|Starověk
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a společnost|Dějepis|Středověk
+│   │   │   │   └── Gymnaziální vzdělávání|Výuka|Člověk a společnost|Dějepis|Úvod do studia historie
+│   │   │   └── Gymnaziální vzdělávání|Výuka|Člověk a společnost|Občanský a společensko vědní základ
+│   │   │       ├── Gymnaziální vzdělávání|Výuka|Člověk a společnost|Občanský a společensko vědní základ|Mezinárodní vztahy, globální svět
+│   │   │       ├── Gymnaziální vzdělávání|Výuka|Člověk a společnost|Občanský a společensko vědní základ|Občan a právo
+│   │   │       ├── Gymnaziální vzdělávání|Výuka|Člověk a společnost|Občanský a společensko vědní základ|Občan ve státě
+│   │   │       ├── Gymnaziální vzdělávání|Výuka|Člověk a společnost|Občanský a společensko vědní základ|Úvod do filozofie a religionistiky
+│   │   │       ├── Gymnaziální vzdělávání|Výuka|Člověk a společnost|Občanský a společensko vědní základ|Člověk jako jedinec
+│   │   │       └── Gymnaziální vzdělávání|Výuka|Člověk a společnost|Občanský a společensko vědní základ|Člověk ve společnosti
+│   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a zdraví
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a zdraví|Sportovní trénink
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a zdraví|Sportovní trénink|Sportovní trénink a zdraví
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a zdraví|Sportovní trénink|Činnosti ovlivňující úroveň sportovní výkonnosti ve sportovní specializaci
+│   │   │   │   └── Gymnaziální vzdělávání|Výuka|Člověk a zdraví|Sportovní trénink|Činnosti podporující sportovní trénink
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a zdraví|Tělesná výchova
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a zdraví|Tělesná výchova|Činnosti ovlivňující zdraví
+│   │   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověk a zdraví|Tělesná výchova|Činnosti ovlivňující úroveň pohybových dovedností
+│   │   │   │   └── Gymnaziální vzdělávání|Výuka|Člověk a zdraví|Tělesná výchova|Činnosti podporující pohybové učení
+│   │   │   └── Gymnaziální vzdělávání|Výuka|Člověk a zdraví|Výchova ke zdraví
+│   │   │       ├── Gymnaziální vzdělávání|Výuka|Člověk a zdraví|Výchova ke zdraví|Ochrana člověka za mimořádných událostí
+│   │   │       ├── Gymnaziální vzdělávání|Výuka|Člověk a zdraví|Výchova ke zdraví|Rizika ohrožující zdraví a jejich prevence
+│   │   │       ├── Gymnaziální vzdělávání|Výuka|Člověk a zdraví|Výchova ke zdraví|Vztahy mezi lidmi a formy soužití
+│   │   │       ├── Gymnaziální vzdělávání|Výuka|Člověk a zdraví|Výchova ke zdraví|Zdravý způsob života a péče o zdraví
+│   │   │       └── Gymnaziální vzdělávání|Výuka|Člověk a zdraví|Výchova ke zdraví|Změny v životě člověka a jejich reflexe
+│   │   ├── Gymnaziální vzdělávání|Výuka|Člověka svět práce
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověka svět práce|Finance
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověka svět práce|Národní hospodářství a úloha státu v ekonomice
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověka svět práce|Pracovněprávní vztahy
+│   │   │   ├── Gymnaziální vzdělávání|Výuka|Člověka svět práce|Trh práce a profesní volba
+│   │   │   └── Gymnaziální vzdělávání|Výuka|Člověka svět práce|Tržní ekonomika
+│   │   └── Gymnaziální vzdělávání|Výuka|Školní projekty
+│   └── Gymnaziální vzdělávání|Škola
+│       ├── Gymnaziální vzdělávání|Škola|Autoevaluace školy
+│       │   ├── Gymnaziální vzdělávání|Škola|Autoevaluace školy|Modely pro hodnocení kvality
+│       │   ├── Gymnaziální vzdělávání|Škola|Autoevaluace školy|Podmínky ke vzdělávání
+│       │   ├── Gymnaziální vzdělávání|Škola|Autoevaluace školy|Podpora školy žákům
+│       │   ├── Gymnaziální vzdělávání|Škola|Autoevaluace školy|Průběh vzdělávání
+│       │   ├── Gymnaziální vzdělávání|Škola|Autoevaluace školy|Výsledky vzdělávání žáků a studentů
+│       │   ├── Gymnaziální vzdělávání|Škola|Autoevaluace školy|obecné informace
+│       │   ├── Gymnaziální vzdělávání|Škola|Autoevaluace školy|Úroveň výsledků práce školy
+│       │   └── Gymnaziální vzdělávání|Škola|Autoevaluace školy|Řízení školy
+│       ├── Gymnaziální vzdělávání|Škola|EVVO
+│       ├── Gymnaziální vzdělávání|Škola|Klima školy
+│       │   ├── Gymnaziální vzdělávání|Škola|Klima školy|Partnerství
+│       │   ├── Gymnaziální vzdělávání|Škola|Klima školy|Prostředí
+│       │   └── Gymnaziální vzdělávání|Škola|Klima školy|Výuka
+│       ├── Gymnaziální vzdělávání|Škola|Pomáhající profese
+│       │   ├── Gymnaziální vzdělávání|Škola|Pomáhající profese|Metodické pokyny
+│       │   ├── Gymnaziální vzdělávání|Škola|Pomáhající profese|Oznamovací povinnost škol a školských zařízení
+│       │   ├── Gymnaziální vzdělávání|Škola|Pomáhající profese|Pomáhající profese - pomoc v krizi
+│       │   ├── Gymnaziální vzdělávání|Škola|Pomáhající profese|Pomáhající profese ve vztahu ke školství
+│       │   └── Gymnaziální vzdělávání|Škola|Pomáhající profese|Výchovná školská zařízení
+│       └── Gymnaziální vzdělávání|Škola|Školská dokumentace
+├── Jazykové vzdělávání
+│   ├── Jazykové vzdělávání|Kurikulum
+│   │   ├── Jazykové vzdělávání|Kurikulum|Proces tvorby
+│   │   ├── Jazykové vzdělávání|Kurikulum|Příklady zpracování
+│   │   ├── Jazykové vzdělávání|Kurikulum|SERRJ
+│   │   └── Jazykové vzdělávání|Kurikulum|Typy jazykových zkoušek
+│   ├── Jazykové vzdělávání|Okolí
+│   │   ├── Jazykové vzdělávání|Okolí|Firmy
+│   │   ├── Jazykové vzdělávání|Okolí|Instituce
+│   │   ├── Jazykové vzdělávání|Okolí|Lidé
+│   │   ├── Jazykové vzdělávání|Okolí|Ostatní
+│   │   ├── Jazykové vzdělávání|Okolí|Pohled za hranice
+│   │   ├── Jazykové vzdělávání|Okolí|Projekty
+│   │   ├── Jazykové vzdělávání|Okolí|Tradice a zkušenosti
+│   │   │   ├── Jazykové vzdělávání|Okolí|Tradice a zkušenosti|Inspirace a zkušenosti
+│   │   │   ├── Jazykové vzdělávání|Okolí|Tradice a zkušenosti|Osobnosti
+│   │   │   └── Jazykové vzdělávání|Okolí|Tradice a zkušenosti|Reformy
+│   │   ├── Jazykové vzdělávání|Okolí|Zajímavé rozhovory
+│   │   └── Jazykové vzdělávání|Okolí|Školy
+│   ├── Jazykové vzdělávání|Učitel
+│   │   ├── Jazykové vzdělávání|Učitel|Autoevaluace školy
+│   │   │   ├── Jazykové vzdělávání|Učitel|Autoevaluace školy|Modely pro hodnocení kvality
+│   │   │   ├── Jazykové vzdělávání|Učitel|Autoevaluace školy|Podmínky ke vzdělávání
+│   │   │   ├── Jazykové vzdělávání|Učitel|Autoevaluace školy|Podpora školy žákům
+│   │   │   ├── Jazykové vzdělávání|Učitel|Autoevaluace školy|Průběh vzdělávání
+│   │   │   ├── Jazykové vzdělávání|Učitel|Autoevaluace školy|Výsledky vzdělávání žáků a studentů
+│   │   │   ├── Jazykové vzdělávání|Učitel|Autoevaluace školy|obecné informace
+│   │   │   ├── Jazykové vzdělávání|Učitel|Autoevaluace školy|Úroveň výsledků práce školy
+│   │   │   └── Jazykové vzdělávání|Učitel|Autoevaluace školy|Řízení školy
+│   │   ├── Jazykové vzdělávání|Učitel|Hodnocení žáků
+│   │   │   ├── Jazykové vzdělávání|Učitel|Hodnocení žáků|Literatura
+│   │   │   ├── Jazykové vzdělávání|Učitel|Hodnocení žáků|Různé formy hodnocení
+│   │   │   └── Jazykové vzdělávání|Učitel|Hodnocení žáků|Sebehodnocení žáka
+│   │   ├── Jazykové vzdělávání|Učitel|Klima školy
+│   │   │   ├── Jazykové vzdělávání|Učitel|Klima školy|Partnerství
+│   │   │   ├── Jazykové vzdělávání|Učitel|Klima školy|Prostředí
+│   │   │   └── Jazykové vzdělávání|Učitel|Klima školy|Výuka
+│   │   └── Jazykové vzdělávání|Učitel|Speciální vzdělávání
+│   │       └── Jazykové vzdělávání|Učitel|Speciální vzdělávání|Škola
+│   └── Jazykové vzdělávání|Výuka
+│       ├── Jazykové vzdělávání|Výuka|Gramotnosti
+│       │   ├── Jazykové vzdělávání|Výuka|Gramotnosti|Jazyková gramotnost
+│       │   └── Jazykové vzdělávání|Výuka|Gramotnosti|Čtenářská gramotnost
+│       ├── Jazykové vzdělávání|Výuka|Klíčové kompetence
+│       │   ├── Jazykové vzdělávání|Výuka|Klíčové kompetence|Hodnocení / ověřování
+│       │   ├── Jazykové vzdělávání|Výuka|Klíčové kompetence|Praktické náměty
+│       │   └── Jazykové vzdělávání|Výuka|Klíčové kompetence|Teorie
+│       └── Jazykové vzdělávání|Výuka|Vzdělávací kurzy
+│           ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Konverzační kurz střední (C1)
+│           │   ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Konverzační kurz střední (C1)|interaktivní řečové dovednosti
+│           │   └── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Konverzační kurz střední (C1)|mediační dovednosti
+│           ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Konverzační kurz základní (B1)
+│           │   ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Konverzační kurz základní (B1)|interaktivní řečové dovednosti
+│           │   └── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Konverzační kurz základní (B1)|mediační dovednosti
+│           ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Konverzační kurz základní (B2)
+│           │   ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Konverzační kurz základní (B2)|interaktivní řečové dovednosti
+│           │   └── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Konverzační kurz základní (B2)|mediační dovednosti
+│           ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Přípravný kurz k SJZS, obor překladatelský (C2)
+│           │   ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Přípravný kurz k SJZS, obor překladatelský (C2)|interaktivní řečové dovednosti
+│           │   ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Přípravný kurz k SJZS, obor překladatelský (C2)|mediační dovednosti
+│           │   ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Přípravný kurz k SJZS, obor překladatelský (C2)|produktivní řečové dovednosti
+│           │   └── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Přípravný kurz k SJZS, obor překladatelský (C2)|receptivní řečové dovednosti
+│           ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Přípravný kurz k SJZS, obor tlumočnický (C2)
+│           │   ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Přípravný kurz k SJZS, obor tlumočnický (C2)|interaktivní řečové dovednosti
+│           │   ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Přípravný kurz k SJZS, obor tlumočnický (C2)|mediační dovednosti
+│           │   ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Přípravný kurz k SJZS, obor tlumočnický (C2)|produktivní řečové dovednosti
+│           │   └── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Přípravný kurz k SJZS, obor tlumočnický (C2)|receptivní řečové dovednosti
+│           ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Přípravný kurz ke zkoušce - SJZV (C1)
+│           │   ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Přípravný kurz ke zkoušce - SJZV (C1)|interaktivní řečové dovednosti
+│           │   ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Přípravný kurz ke zkoušce - SJZV (C1)|produktivní řečové dovednosti
+│           │   └── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Přípravný kurz ke zkoušce - SJZV (C1)|receptivní řečové dovednosti
+│           ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Přípravný kurz ke zkoušce - SJZZ (B2)
+│           │   ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Přípravný kurz ke zkoušce - SJZZ (B2)|interaktivní řečové dovednosti
+│           │   ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Přípravný kurz ke zkoušce - SJZZ (B2)|produktivní řečové dovednosti
+│           │   └── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Přípravný kurz ke zkoušce - SJZZ (B2)|receptivní řečové dovednosti
+│           ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Speciální kurzy
+│           │   ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Speciální kurzy|mládežnické kurzy
+│           │   ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Speciální kurzy|ostatní
+│           │   ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Speciální kurzy|pomaturitní studium
+│           │   ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Speciální kurzy|přípravné kurzy k maturitě
+│           │   ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Speciální kurzy|přípravné kurzy ke zkouškám
+│           │   └── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Speciální kurzy|vzdělávání dospělých
+│           ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Střední kurz - 1. ročník (B1+)
+│           │   ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Střední kurz - 1. ročník (B1+)|interaktivní řečové dovednosti
+│           │   ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Střední kurz - 1. ročník (B1+)|produktivní řečové dovednosti
+│           │   └── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Střední kurz - 1. ročník (B1+)|receptivní řečové dovednosti
+│           ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Střední kurz - 2. ročník (B2)
+│           │   ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Střední kurz - 2. ročník (B2)|interaktivní řečové dovednosti
+│           │   ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Střední kurz - 2. ročník (B2)|produktivní řečové dovednosti
+│           │   └── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Střední kurz - 2. ročník (B2)|receptivní řečové dovednosti
+│           ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Základní kurz - 1. ročník (A1)
+│           │   ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Základní kurz - 1. ročník (A1)|interaktivní řečové dovednosti
+│           │   ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Základní kurz - 1. ročník (A1)|produktivní řečové dovednosti
+│           │   └── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Základní kurz - 1. ročník (A1)|receptivní řečové dovednosti
+│           ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Základní kurz - 2. ročník (A2)
+│           │   ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Základní kurz - 2. ročník (A2)|interaktivní řečové dovednosti
+│           │   ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Základní kurz - 2. ročník (A2)|produktivní řečové dovednosti
+│           │   └── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Základní kurz - 2. ročník (A2)|receptivní řečové dovednosti
+│           └── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Základní kurz - 3. ročník (B1)
+│               ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Základní kurz - 3. ročník (B1)|interaktivní řečové dovednosti
+│               ├── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Základní kurz - 3. ročník (B1)|produktivní řečové dovednosti
+│               └── Jazykové vzdělávání|Výuka|Vzdělávací kurzy|Základní kurz - 3. ročník (B1)|receptivní řečové dovednosti
+├── Odborné vzdělávání
+│   ├── Odborné vzdělávání|Kurikulum
+│   │   ├── Odborné vzdělávání|Kurikulum|Proces tvorby
+│   │   └── Odborné vzdělávání|Kurikulum|Příklady zpracování
+│   ├── Odborné vzdělávání|Okolí
+│   │   ├── Odborné vzdělávání|Okolí|Firmy
+│   │   ├── Odborné vzdělávání|Okolí|Inspirace - pohled za hranice
+│   │   ├── Odborné vzdělávání|Okolí|Instituce
+│   │   ├── Odborné vzdělávání|Okolí|Lidé
+│   │   ├── Odborné vzdělávání|Okolí|Ostatní
+│   │   ├── Odborné vzdělávání|Okolí|Projekty
+│   │   ├── Odborné vzdělávání|Okolí|Tradice a zkušenosti
+│   │   │   ├── Odborné vzdělávání|Okolí|Tradice a zkušenosti|Inspirace a zkušenosti
+│   │   │   ├── Odborné vzdělávání|Okolí|Tradice a zkušenosti|Osobnosti
+│   │   │   └── Odborné vzdělávání|Okolí|Tradice a zkušenosti|Reformy
+│   │   ├── Odborné vzdělávání|Okolí|Zajímavé rozhovory
+│   │   └── Odborné vzdělávání|Okolí|Školy
+│   ├── Odborné vzdělávání|Učitel
+│   │   ├── Odborné vzdělávání|Učitel|Didaktika
+│   │   ├── Odborné vzdělávání|Učitel|Hodnocení žáků
+│   │   │   ├── Odborné vzdělávání|Učitel|Hodnocení žáků|Literatura
+│   │   │   ├── Odborné vzdělávání|Učitel|Hodnocení žáků|Různé formy hodnocení
+│   │   │   └── Odborné vzdělávání|Učitel|Hodnocení žáků|Sebehodnocení žáka
+│   │   ├── Odborné vzdělávání|Učitel|Inkluzivní vzdělávání
+│   │   │   ├── Odborné vzdělávání|Učitel|Inkluzivní vzdělávání|Ostatní menšiny
+│   │   │   ├── Odborné vzdělávání|Učitel|Inkluzivní vzdělávání|Vzdělávání Romů
+│   │   │   └── Odborné vzdělávání|Učitel|Inkluzivní vzdělávání|Vzdělávání cizinců
+│   │   ├── Odborné vzdělávání|Učitel|Management
+│   │   ├── Odborné vzdělávání|Učitel|Nadaní žáci
+│   │   │   ├── Odborné vzdělávání|Učitel|Nadaní žáci|Legislativa a poradenství
+│   │   │   ├── Odborné vzdělávání|Učitel|Nadaní žáci|Metodická podpora
+│   │   │   └── Odborné vzdělávání|Učitel|Nadaní žáci|Teorie a výzkum
+│   │   ├── Odborné vzdělávání|Učitel|Pedagogika
+│   │   ├── Odborné vzdělávání|Učitel|Prevence
+│   │   ├── Odborné vzdělávání|Učitel|Psychologie
+│   │   ├── Odborné vzdělávání|Učitel|Speciální vzdělávání
+│   │   └── Odborné vzdělávání|Učitel|Vzdělávání žáků cizinců
+│   ├── Odborné vzdělávání|Výuka
+│   │   ├── Odborné vzdělávání|Výuka|Ekonomika a právo
+│   │   │   ├── Odborné vzdělávání|Výuka|Ekonomika a právo|Ekonomika
+│   │   │   ├── Odborné vzdělávání|Výuka|Ekonomika a právo|Obchod
+│   │   │   └── Odborné vzdělávání|Výuka|Ekonomika a právo|Právo
+│   │   ├── Odborné vzdělávání|Výuka|Gramotnosti
+│   │   │   ├── Odborné vzdělávání|Výuka|Gramotnosti|Finanční gramotnost
+│   │   │   ├── Odborné vzdělávání|Výuka|Gramotnosti|Matematická gramotnost
+│   │   │   ├── Odborné vzdělávání|Výuka|Gramotnosti|Přírodovědná gramotnost
+│   │   │   └── Odborné vzdělávání|Výuka|Gramotnosti|Čtenářská gramotnost
+│   │   ├── Odborné vzdělávání|Výuka|Klíčové kompetence
+│   │   │   ├── Odborné vzdělávání|Výuka|Klíčové kompetence|Hodnocení / ověřování
+│   │   │   ├── Odborné vzdělávání|Výuka|Klíčové kompetence|Praktické náměty
+│   │   │   └── Odborné vzdělávání|Výuka|Klíčové kompetence|Teorie
+│   │   ├── Odborné vzdělávání|Výuka|Průřezová témata
+│   │   │   ├── Odborné vzdělávání|Výuka|Průřezová témata|Informační a komunikační technologie
+│   │   │   ├── Odborné vzdělávání|Výuka|Průřezová témata|Občan v demokratické společnosti
+│   │   │   ├── Odborné vzdělávání|Výuka|Průřezová témata|Člověk a svět práce
+│   │   │   └── Odborné vzdělávání|Výuka|Průřezová témata|Člověk a životní prostředí
+│   │   ├── Odborné vzdělávání|Výuka|Služby
+│   │   │   ├── Odborné vzdělávání|Výuka|Služby|Další služby (knihovnické, fotografické, úklidové 
+│   │   │   ├── Odborné vzdělávání|Výuka|Služby|Gastronomie, hotelnictví, turismus
+│   │   │   ├── Odborné vzdělávání|Výuka|Služby|Logistické služby
+│   │   │   ├── Odborné vzdělávání|Výuka|Služby|Osobní služby
+│   │   │   └── Odborné vzdělávání|Výuka|Služby|Zdravotnictví
+│   │   ├── Odborné vzdělávání|Výuka|Technická odvětví
+│   │   │   ├── Odborné vzdělávání|Výuka|Technická odvětví|Chemická výroba
+│   │   │   ├── Odborné vzdělávání|Výuka|Technická odvětví|Další technická odvětví
+│   │   │   ├── Odborné vzdělávání|Výuka|Technická odvětví|Elektrotechnika a telekomunikace
+│   │   │   ├── Odborné vzdělávání|Výuka|Technická odvětví|Informační technologie
+│   │   │   ├── Odborné vzdělávání|Výuka|Technická odvětví|Polygrafie
+│   │   │   ├── Odborné vzdělávání|Výuka|Technická odvětví|Stavebnictví, geodézie
+│   │   │   └── Odborné vzdělávání|Výuka|Technická odvětví|Strojírenské disciplíny
+│   │   ├── Odborné vzdělávání|Výuka|Umění a uměleckořemeslná výroba
+│   │   │   ├── Odborné vzdělávání|Výuka|Umění a uměleckořemeslná výroba|Múzická umění
+│   │   │   └── Odborné vzdělávání|Výuka|Umění a uměleckořemeslná výroba|Užité umění
+│   │   ├── Odborné vzdělávání|Výuka|Učební a odborná praxe
+│   │   ├── Odborné vzdělávání|Výuka|Výchova k podnikavosti
+│   │   │   ├── Odborné vzdělávání|Výuka|Výchova k podnikavosti|Fiktifní firmy
+│   │   │   ├── Odborné vzdělávání|Výuka|Výchova k podnikavosti|Junior achievement
+│   │   │   └── Odborné vzdělávání|Výuka|Výchova k podnikavosti|Ostatní projekty
+│   │   ├── Odborné vzdělávání|Výuka|Všeobecné vzdělávání
+│   │   │   ├── Odborné vzdělávání|Výuka|Všeobecné vzdělávání|Cizí jazyk
+│   │   │   ├── Odborné vzdělávání|Výuka|Všeobecné vzdělávání|Ekonomické vzdělávání
+│   │   │   ├── Odborné vzdělávání|Výuka|Všeobecné vzdělávání|Estetické vzdělávání
+│   │   │   ├── Odborné vzdělávání|Výuka|Všeobecné vzdělávání|Matematické vzdělávání
+│   │   │   ├── Odborné vzdělávání|Výuka|Všeobecné vzdělávání|Přírodovědné vzdělávání
+│   │   │   ├── Odborné vzdělávání|Výuka|Všeobecné vzdělávání|Společenskovědní vzdělávání
+│   │   │   ├── Odborné vzdělávání|Výuka|Všeobecné vzdělávání|Vzdělávání pro zdraví
+│   │   │   ├── Odborné vzdělávání|Výuka|Všeobecné vzdělávání|Vzdělávání v ICT
+│   │   │   └── Odborné vzdělávání|Výuka|Všeobecné vzdělávání|Český jazyk
+│   │   ├── Odborné vzdělávání|Výuka|Zpracování surovin a materiálů
+│   │   │   ├── Odborné vzdělávání|Výuka|Zpracování surovin a materiálů|Chemie silikátů (sklo a porcelán)
+│   │   │   ├── Odborné vzdělávání|Výuka|Zpracování surovin a materiálů|Další zpracovatelské obory (hutnictví a jiné)
+│   │   │   ├── Odborné vzdělávání|Výuka|Zpracování surovin a materiálů|Dřevozpracující a nábytkářská výroba
+│   │   │   ├── Odborné vzdělávání|Výuka|Zpracování surovin a materiálů|Oděvnictví, textilnictví a kožedělná výroba
+│   │   │   ├── Odborné vzdělávání|Výuka|Zpracování surovin a materiálů|Potravinářství
+│   │   │   └── Odborné vzdělávání|Výuka|Zpracování surovin a materiálů|Zpracování papíru
+│   │   ├── Odborné vzdělávání|Výuka|Školní projekty
+│   │   └── Odborné vzdělávání|Výuka|Životní prostředí, zemědělství
+│   │       ├── Odborné vzdělávání|Výuka|Životní prostředí, zemědělství|Ochrana životního prostředí
+│   │       └── Odborné vzdělávání|Výuka|Životní prostředí, zemědělství|Zemědělství, zahradnictví, lesnictví, veterinářstv
+│   └── Odborné vzdělávání|Škola
+│       ├── Odborné vzdělávání|Škola|Autoevaluace školy
+│       │   ├── Odborné vzdělávání|Škola|Autoevaluace školy|Modely pro hodnocení kvality
+│       │   ├── Odborné vzdělávání|Škola|Autoevaluace školy|Podmínky ke vzdělávání
+│       │   ├── Odborné vzdělávání|Škola|Autoevaluace školy|Podpora školy žákům
+│       │   ├── Odborné vzdělávání|Škola|Autoevaluace školy|Průběh vzdělávání
+│       │   ├── Odborné vzdělávání|Škola|Autoevaluace školy|Výsledky vzdělávání žáků a studentů
+│       │   ├── Odborné vzdělávání|Škola|Autoevaluace školy|obecné informace
+│       │   ├── Odborné vzdělávání|Škola|Autoevaluace školy|Úroveň výsledků práce školy
+│       │   └── Odborné vzdělávání|Škola|Autoevaluace školy|Řízení školy
+│       ├── Odborné vzdělávání|Škola|Klima školy
+│       │   ├── Odborné vzdělávání|Škola|Klima školy|Partnerství
+│       │   ├── Odborné vzdělávání|Škola|Klima školy|Prostředí
+│       │   └── Odborné vzdělávání|Škola|Klima školy|Výuka
+│       ├── Odborné vzdělávání|Škola|Pomáhající profese
+│       │   ├── Odborné vzdělávání|Škola|Pomáhající profese|Metodické pokyny
+│       │   ├── Odborné vzdělávání|Škola|Pomáhající profese|Oznamovací povinnost škol a školských zařízení
+│       │   ├── Odborné vzdělávání|Škola|Pomáhající profese|Pomáhající profese - pomoc v krizi
+│       │   ├── Odborné vzdělávání|Škola|Pomáhající profese|Pomáhající profese ve vztahu ke školství
+│       │   └── Odborné vzdělávání|Škola|Pomáhající profese|Výchovná školská zařízení
+│       ├── Odborné vzdělávání|Škola|Sociální partnerství
+│       ├── Odborné vzdělávání|Škola|Společná výuka v několika ŠVP
+│       └── Odborné vzdělávání|Škola|Školská dokumentace
+├── Předškolní vzdělávání
+│   ├── Předškolní vzdělávání|Kurikulum
+│   │   ├── Předškolní vzdělávání|Kurikulum|Tvorba Třídních vzdělávacích programů
+│   │   ├── Předškolní vzdělávání|Kurikulum|Tvorba Školních vzdělávacích programů
+│   │   └── Předškolní vzdělávání|Kurikulum|ŠVP
+│   ├── Předškolní vzdělávání|Okolí
+│   │   ├── Předškolní vzdělávání|Okolí|Firmy
+│   │   ├── Předškolní vzdělávání|Okolí|Instituce
+│   │   ├── Předškolní vzdělávání|Okolí|Lidé
+│   │   ├── Předškolní vzdělávání|Okolí|Pohled za hranice
+│   │   ├── Předškolní vzdělávání|Okolí|Tradice a zkušenosti
+│   │   │   ├── Předškolní vzdělávání|Okolí|Tradice a zkušenosti|Inspirace a zkušenosti
+│   │   │   ├── Předškolní vzdělávání|Okolí|Tradice a zkušenosti|Osobnosti
+│   │   │   └── Předškolní vzdělávání|Okolí|Tradice a zkušenosti|Reformy
+│   │   ├── Předškolní vzdělávání|Okolí|Zajímavé rozhovory
+│   │   └── Předškolní vzdělávání|Okolí|Školy
+│   ├── Předškolní vzdělávání|Učitel
+│   │   ├── Předškolní vzdělávání|Učitel|Asistent pedagoga
+│   │   ├── Předškolní vzdělávání|Učitel|Didaktika
+│   │   ├── Předškolní vzdělávání|Učitel|Hodnocení rozvoje a učení dítěte
+│   │   ├── Předškolní vzdělávání|Učitel|Inkluzivní vzdělávání
+│   │   │   ├── Předškolní vzdělávání|Učitel|Inkluzivní vzdělávání|Ostatní menšiny
+│   │   │   ├── Předškolní vzdělávání|Učitel|Inkluzivní vzdělávání|Vzdělávání Romů
+│   │   │   └── Předškolní vzdělávání|Učitel|Inkluzivní vzdělávání|Vzdělávání cizinců
+│   │   ├── Předškolní vzdělávání|Učitel|Management
+│   │   ├── Předškolní vzdělávání|Učitel|Metodické reflexe a didaktické trendy
+│   │   │   ├── Předškolní vzdělávání|Učitel|Metodické reflexe a didaktické trendy|Alternativní vzdělávání
+│   │   │   ├── Předškolní vzdělávání|Učitel|Metodické reflexe a didaktické trendy|Metodiky oborů
+│   │   │   ├── Předškolní vzdělávání|Učitel|Metodické reflexe a didaktické trendy|Projektování
+│   │   │   └── Předškolní vzdělávání|Učitel|Metodické reflexe a didaktické trendy|Prožitkové a situační učení
+│   │   ├── Předškolní vzdělávání|Učitel|Nadané děti
+│   │   │   ├── Předškolní vzdělávání|Učitel|Nadané děti|Legislativa a poradenství
+│   │   │   ├── Předškolní vzdělávání|Učitel|Nadané děti|Metodická podpora
+│   │   │   └── Předškolní vzdělávání|Učitel|Nadané děti|Teorie a výzkum
+│   │   ├── Předškolní vzdělávání|Učitel|Návaznost ve vzdělávání
+│   │   ├── Předškolní vzdělávání|Učitel|Pedagogika
+│   │   ├── Předškolní vzdělávání|Učitel|Prevence
+│   │   ├── Předškolní vzdělávání|Učitel|Psychologie
+│   │   ├── Předškolní vzdělávání|Učitel|Speciální vzdělávání
+│   │   └── Předškolní vzdělávání|Učitel|Vzdělávání žáků cizinců
+│   ├── Předškolní vzdělávání|Výuka
+│   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)
+│   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Adaptační období
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Adaptační období|Cizí jazyk
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Adaptační období|Dramatické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Adaptační období|Ekologie
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Adaptační období|Environmentální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Adaptační období|Etické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Adaptační období|Grafomotorické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Adaptační období|Hudební
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Adaptační období|Jazykové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Adaptační období|Literární
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Adaptační období|Logopedické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Adaptační období|Multikulturní
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Adaptační období|Pohybové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Adaptační období|Poznávací
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Adaptační období|Poznávací, rozumové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Adaptační období|Předmatematické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Adaptační období|Sexuální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Adaptační období|Smyslové, citové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Adaptační období|Sociální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Adaptační období|Výtvarné
+│   │   │   │   └── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Adaptační období|Všechny činnosti
+│   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Cizí jazyk
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Cizí jazyk|Cizí jazyk
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Cizí jazyk|Dramatické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Cizí jazyk|Ekologie
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Cizí jazyk|Environmentální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Cizí jazyk|Etické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Cizí jazyk|Grafomotorické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Cizí jazyk|Hudební
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Cizí jazyk|Jazykové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Cizí jazyk|Literární
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Cizí jazyk|Logopedické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Cizí jazyk|Multikulturní
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Cizí jazyk|Pohybové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Cizí jazyk|Poznávací
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Cizí jazyk|Poznávací, rozumové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Cizí jazyk|Předmatematické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Cizí jazyk|Sexuální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Cizí jazyk|Smyslové, citové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Cizí jazyk|Sociální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Cizí jazyk|Výtvarné
+│   │   │   │   └── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Cizí jazyk|Všechny činnosti
+│   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Dramatické, interaktivní
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Dramatické, interaktivní|Cizí jazyk
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Dramatické, interaktivní|Dramatické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Dramatické, interaktivní|Ekologie
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Dramatické, interaktivní|Environmentální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Dramatické, interaktivní|Etické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Dramatické, interaktivní|Grafomotorické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Dramatické, interaktivní|Hudební
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Dramatické, interaktivní|Jazykové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Dramatické, interaktivní|Literární
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Dramatické, interaktivní|Logopedické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Dramatické, interaktivní|Multikulturní
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Dramatické, interaktivní|Pohybové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Dramatické, interaktivní|Poznávací
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Dramatické, interaktivní|Poznávací, rozumové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Dramatické, interaktivní|Předmatematické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Dramatické, interaktivní|Sexuální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Dramatické, interaktivní|Smyslové, citové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Dramatické, interaktivní|Sociální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Dramatické, interaktivní|Výtvarné
+│   │   │   │   └── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Dramatické, interaktivní|Všechny činnosti
+│   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Environmentální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Environmentální|Cizí jazyk
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Environmentální|Dramatické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Environmentální|Ekologie
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Environmentální|Environmentální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Environmentální|Etické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Environmentální|Grafomotorické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Environmentální|Hudební
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Environmentální|Jazykové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Environmentální|Literární
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Environmentální|Logopedické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Environmentální|Multikulturní
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Environmentální|Pohybové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Environmentální|Poznávací
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Environmentální|Poznávací, rozumové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Environmentální|Předmatematické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Environmentální|Sexuální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Environmentální|Smyslové, citové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Environmentální|Sociální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Environmentální|Výtvarné
+│   │   │   │   └── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Environmentální|Všechny činnosti
+│   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Finanční gramotnost
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Finanční gramotnost|Cizí jazyk
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Finanční gramotnost|Dramatické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Finanční gramotnost|Ekologie
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Finanční gramotnost|Environmentální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Finanční gramotnost|Etické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Finanční gramotnost|Grafomotorické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Finanční gramotnost|Hudební
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Finanční gramotnost|Jazykové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Finanční gramotnost|Literární
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Finanční gramotnost|Logopedické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Finanční gramotnost|Multikulturní
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Finanční gramotnost|Pohybové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Finanční gramotnost|Poznávací
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Finanční gramotnost|Poznávací, rozumové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Finanční gramotnost|Předmatematické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Finanční gramotnost|Sexuální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Finanční gramotnost|Smyslové, citové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Finanční gramotnost|Sociální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Finanční gramotnost|Výtvarné
+│   │   │   │   └── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Finanční gramotnost|Všechny činnosti
+│   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Grafomotorické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Grafomotorické|Cizí jazyk
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Grafomotorické|Dramatické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Grafomotorické|Ekologie
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Grafomotorické|Environmentální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Grafomotorické|Etické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Grafomotorické|Grafomotorické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Grafomotorické|Hudební
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Grafomotorické|Jazykové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Grafomotorické|Literární
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Grafomotorické|Logopedické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Grafomotorické|Multikulturní
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Grafomotorické|Pohybové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Grafomotorické|Poznávací
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Grafomotorické|Poznávací, rozumové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Grafomotorické|Předmatematické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Grafomotorické|Sexuální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Grafomotorické|Smyslové, citové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Grafomotorické|Sociální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Grafomotorické|Výtvarné
+│   │   │   │   └── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Grafomotorické|Všechny činnosti
+│   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Hudební, rytmické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Hudební, rytmické|Cizí jazyk
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Hudební, rytmické|Dramatické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Hudební, rytmické|Ekologie
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Hudební, rytmické|Environmentální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Hudební, rytmické|Etické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Hudební, rytmické|Grafomotorické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Hudební, rytmické|Hudební
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Hudební, rytmické|Jazykové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Hudební, rytmické|Literární
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Hudební, rytmické|Logopedické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Hudební, rytmické|Multikulturní
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Hudební, rytmické|Pohybové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Hudební, rytmické|Poznávací
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Hudební, rytmické|Poznávací, rozumové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Hudební, rytmické|Předmatematické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Hudební, rytmické|Sexuální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Hudební, rytmické|Smyslové, citové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Hudební, rytmické|Sociální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Hudební, rytmické|Výtvarné
+│   │   │   │   └── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Hudební, rytmické|Všechny činnosti
+│   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Jazykové, řečové, komunikativní
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Jazykové, řečové, komunikativní|Cizí jazyk
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Jazykové, řečové, komunikativní|Dramatické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Jazykové, řečové, komunikativní|Ekologie
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Jazykové, řečové, komunikativní|Environmentální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Jazykové, řečové, komunikativní|Etické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Jazykové, řečové, komunikativní|Grafomotorické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Jazykové, řečové, komunikativní|Hudební
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Jazykové, řečové, komunikativní|Jazykové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Jazykové, řečové, komunikativní|Literární
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Jazykové, řečové, komunikativní|Logopedické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Jazykové, řečové, komunikativní|Multikulturní
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Jazykové, řečové, komunikativní|Pohybové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Jazykové, řečové, komunikativní|Poznávací
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Jazykové, řečové, komunikativní|Poznávací, rozumové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Jazykové, řečové, komunikativní|Předmatematické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Jazykové, řečové, komunikativní|Sexuální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Jazykové, řečové, komunikativní|Smyslové, citové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Jazykové, řečové, komunikativní|Sociální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Jazykové, řečové, komunikativní|Výtvarné
+│   │   │   │   └── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Jazykové, řečové, komunikativní|Všechny činnosti
+│   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Logopedické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Logopedické|Cizí jazyk
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Logopedické|Dramatické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Logopedické|Ekologie
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Logopedické|Environmentální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Logopedické|Etické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Logopedické|Grafomotorické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Logopedické|Hudební
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Logopedické|Jazykové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Logopedické|Literární
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Logopedické|Logopedické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Logopedické|Multikulturní
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Logopedické|Pohybové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Logopedické|Poznávací
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Logopedické|Poznávací, rozumové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Logopedické|Předmatematické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Logopedické|Sexuální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Logopedické|Smyslové, citové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Logopedické|Sociální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Logopedické|Výtvarné
+│   │   │   │   └── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Logopedické|Všechny činnosti
+│   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Matematická gramotnost
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Matematická gramotnost|Cizí jazyk
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Matematická gramotnost|Dramatické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Matematická gramotnost|Ekologie
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Matematická gramotnost|Environmentální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Matematická gramotnost|Etické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Matematická gramotnost|Grafomotorické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Matematická gramotnost|Hudební
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Matematická gramotnost|Jazykové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Matematická gramotnost|Literární
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Matematická gramotnost|Logopedické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Matematická gramotnost|Multikulturní
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Matematická gramotnost|Pohybové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Matematická gramotnost|Poznávací
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Matematická gramotnost|Poznávací, rozumové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Matematická gramotnost|Předmatematické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Matematická gramotnost|Sexuální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Matematická gramotnost|Smyslové, citové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Matematická gramotnost|Sociální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Matematická gramotnost|Výtvarné
+│   │   │   │   └── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Matematická gramotnost|Všechny činnosti
+│   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Multikulturní
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Multikulturní|Cizí jazyk
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Multikulturní|Dramatické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Multikulturní|Ekologie
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Multikulturní|Environmentální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Multikulturní|Etické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Multikulturní|Grafomotorické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Multikulturní|Hudební
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Multikulturní|Jazykové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Multikulturní|Literární
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Multikulturní|Logopedické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Multikulturní|Multikulturní
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Multikulturní|Pohybové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Multikulturní|Poznávací
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Multikulturní|Poznávací, rozumové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Multikulturní|Předmatematické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Multikulturní|Sexuální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Multikulturní|Smyslové, citové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Multikulturní|Sociální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Multikulturní|Výtvarné
+│   │   │   │   └── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Multikulturní|Všechny činnosti
+│   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Pohybové, hudebně pohybové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Pohybové, hudebně pohybové|Cizí jazyk
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Pohybové, hudebně pohybové|Dramatické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Pohybové, hudebně pohybové|Ekologie
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Pohybové, hudebně pohybové|Environmentální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Pohybové, hudebně pohybové|Etické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Pohybové, hudebně pohybové|Grafomotorické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Pohybové, hudebně pohybové|Hudební
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Pohybové, hudebně pohybové|Jazykové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Pohybové, hudebně pohybové|Literární
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Pohybové, hudebně pohybové|Logopedické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Pohybové, hudebně pohybové|Multikulturní
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Pohybové, hudebně pohybové|Pohybové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Pohybové, hudebně pohybové|Poznávací
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Pohybové, hudebně pohybové|Poznávací, rozumové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Pohybové, hudebně pohybové|Předmatematické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Pohybové, hudebně pohybové|Sexuální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Pohybové, hudebně pohybové|Smyslové, citové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Pohybové, hudebně pohybové|Sociální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Pohybové, hudebně pohybové|Výtvarné
+│   │   │   │   └── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Pohybové, hudebně pohybové|Všechny činnosti
+│   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Práce s médii, knihou, počítačem
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Práce s médii, knihou, počítačem|Cizí jazyk
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Práce s médii, knihou, počítačem|Dramatické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Práce s médii, knihou, počítačem|Ekologie
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Práce s médii, knihou, počítačem|Environmentální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Práce s médii, knihou, počítačem|Etické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Práce s médii, knihou, počítačem|Grafomotorické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Práce s médii, knihou, počítačem|Hudební
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Práce s médii, knihou, počítačem|Jazykové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Práce s médii, knihou, počítačem|Literární
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Práce s médii, knihou, počítačem|Logopedické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Práce s médii, knihou, počítačem|Multikulturní
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Práce s médii, knihou, počítačem|Pohybové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Práce s médii, knihou, počítačem|Poznávací
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Práce s médii, knihou, počítačem|Poznávací, rozumové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Práce s médii, knihou, počítačem|Předmatematické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Práce s médii, knihou, počítačem|Sexuální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Práce s médii, knihou, počítačem|Smyslové, citové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Práce s médii, knihou, počítačem|Sociální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Práce s médii, knihou, počítačem|Výtvarné
+│   │   │   │   └── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Práce s médii, knihou, počítačem|Všechny činnosti
+│   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Prázdninový provoz
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Prázdninový provoz|Cizí jazyk
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Prázdninový provoz|Dramatické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Prázdninový provoz|Ekologie
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Prázdninový provoz|Environmentální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Prázdninový provoz|Etické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Prázdninový provoz|Grafomotorické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Prázdninový provoz|Hudební
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Prázdninový provoz|Jazykové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Prázdninový provoz|Literární
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Prázdninový provoz|Logopedické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Prázdninový provoz|Multikulturní
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Prázdninový provoz|Pohybové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Prázdninový provoz|Poznávací
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Prázdninový provoz|Poznávací, rozumové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Prázdninový provoz|Předmatematické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Prázdninový provoz|Sexuální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Prázdninový provoz|Smyslové, citové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Prázdninový provoz|Sociální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Prázdninový provoz|Výtvarné
+│   │   │   │   └── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Prázdninový provoz|Všechny činnosti
+│   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Péče o zdraví
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Péče o zdraví|Cizí jazyk
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Péče o zdraví|Dramatické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Péče o zdraví|Ekologie
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Péče o zdraví|Environmentální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Péče o zdraví|Etické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Péče o zdraví|Grafomotorické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Péče o zdraví|Hudební
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Péče o zdraví|Jazykové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Péče o zdraví|Literární
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Péče o zdraví|Logopedické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Péče o zdraví|Multikulturní
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Péče o zdraví|Pohybové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Péče o zdraví|Poznávací
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Péče o zdraví|Poznávací, rozumové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Péče o zdraví|Předmatematické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Péče o zdraví|Sexuální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Péče o zdraví|Smyslové, citové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Péče o zdraví|Sociální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Péče o zdraví|Výtvarné
+│   │   │   │   └── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Péče o zdraví|Všechny činnosti
+│   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Přírodovědná gramotnost
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Přírodovědná gramotnost|Cizí jazyk
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Přírodovědná gramotnost|Dramatické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Přírodovědná gramotnost|Ekologie
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Přírodovědná gramotnost|Environmentální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Přírodovědná gramotnost|Etické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Přírodovědná gramotnost|Grafomotorické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Přírodovědná gramotnost|Hudební
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Přírodovědná gramotnost|Jazykové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Přírodovědná gramotnost|Literární
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Přírodovědná gramotnost|Logopedické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Přírodovědná gramotnost|Multikulturní
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Přírodovědná gramotnost|Pohybové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Přírodovědná gramotnost|Poznávací
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Přírodovědná gramotnost|Poznávací, rozumové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Přírodovědná gramotnost|Předmatematické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Přírodovědná gramotnost|Sexuální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Přírodovědná gramotnost|Smyslové, citové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Přírodovědná gramotnost|Sociální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Přírodovědná gramotnost|Výtvarné
+│   │   │   │   └── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Přírodovědná gramotnost|Všechny činnosti
+│   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Rodinné a citové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Rodinné a citové|Cizí jazyk
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Rodinné a citové|Dramatické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Rodinné a citové|Ekologie
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Rodinné a citové|Environmentální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Rodinné a citové|Etické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Rodinné a citové|Grafomotorické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Rodinné a citové|Hudební
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Rodinné a citové|Jazykové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Rodinné a citové|Literární
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Rodinné a citové|Logopedické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Rodinné a citové|Multikulturní
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Rodinné a citové|Pohybové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Rodinné a citové|Poznávací
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Rodinné a citové|Poznávací, rozumové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Rodinné a citové|Předmatematické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Rodinné a citové|Sexuální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Rodinné a citové|Smyslové, citové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Rodinné a citové|Sociální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Rodinné a citové|Výtvarné
+│   │   │   │   └── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Rodinné a citové|Všechny činnosti
+│   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Slavnosti, zábavy, výlety
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Slavnosti, zábavy, výlety|Cizí jazyk
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Slavnosti, zábavy, výlety|Dramatické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Slavnosti, zábavy, výlety|Ekologie
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Slavnosti, zábavy, výlety|Environmentální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Slavnosti, zábavy, výlety|Etické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Slavnosti, zábavy, výlety|Grafomotorické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Slavnosti, zábavy, výlety|Hudební
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Slavnosti, zábavy, výlety|Jazykové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Slavnosti, zábavy, výlety|Literární
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Slavnosti, zábavy, výlety|Logopedické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Slavnosti, zábavy, výlety|Multikulturní
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Slavnosti, zábavy, výlety|Pohybové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Slavnosti, zábavy, výlety|Poznávací
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Slavnosti, zábavy, výlety|Poznávací, rozumové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Slavnosti, zábavy, výlety|Předmatematické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Slavnosti, zábavy, výlety|Sexuální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Slavnosti, zábavy, výlety|Smyslové, citové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Slavnosti, zábavy, výlety|Sociální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Slavnosti, zábavy, výlety|Výtvarné
+│   │   │   │   └── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Slavnosti, zábavy, výlety|Všechny činnosti
+│   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Smyslové, kognitivní
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Smyslové, kognitivní|Cizí jazyk
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Smyslové, kognitivní|Dramatické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Smyslové, kognitivní|Ekologie
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Smyslové, kognitivní|Environmentální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Smyslové, kognitivní|Etické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Smyslové, kognitivní|Grafomotorické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Smyslové, kognitivní|Hudební
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Smyslové, kognitivní|Jazykové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Smyslové, kognitivní|Literární
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Smyslové, kognitivní|Logopedické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Smyslové, kognitivní|Multikulturní
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Smyslové, kognitivní|Pohybové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Smyslové, kognitivní|Poznávací
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Smyslové, kognitivní|Poznávací, rozumové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Smyslové, kognitivní|Předmatematické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Smyslové, kognitivní|Sexuální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Smyslové, kognitivní|Smyslové, citové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Smyslové, kognitivní|Sociální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Smyslové, kognitivní|Výtvarné
+│   │   │   │   └── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Smyslové, kognitivní|Všechny činnosti
+│   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Sociální a citové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Sociální a citové|Cizí jazyk
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Sociální a citové|Dramatické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Sociální a citové|Ekologie
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Sociální a citové|Environmentální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Sociální a citové|Etické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Sociální a citové|Grafomotorické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Sociální a citové|Hudební
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Sociální a citové|Jazykové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Sociální a citové|Literární
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Sociální a citové|Logopedické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Sociální a citové|Multikulturní
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Sociální a citové|Pohybové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Sociální a citové|Poznávací
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Sociální a citové|Poznávací, rozumové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Sociální a citové|Předmatematické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Sociální a citové|Sexuální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Sociální a citové|Smyslové, citové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Sociální a citové|Sociální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Sociální a citové|Výtvarné
+│   │   │   │   └── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Sociální a citové|Všechny činnosti
+│   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Výtvarné, grafické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Výtvarné, grafické|Cizí jazyk
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Výtvarné, grafické|Dramatické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Výtvarné, grafické|Ekologie
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Výtvarné, grafické|Environmentální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Výtvarné, grafické|Etické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Výtvarné, grafické|Grafomotorické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Výtvarné, grafické|Hudební
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Výtvarné, grafické|Jazykové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Výtvarné, grafické|Literární
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Výtvarné, grafické|Logopedické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Výtvarné, grafické|Multikulturní
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Výtvarné, grafické|Pohybové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Výtvarné, grafické|Poznávací
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Výtvarné, grafické|Poznávací, rozumové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Výtvarné, grafické|Předmatematické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Výtvarné, grafické|Sexuální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Výtvarné, grafické|Smyslové, citové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Výtvarné, grafické|Sociální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Výtvarné, grafické|Výtvarné
+│   │   │   │   └── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Výtvarné, grafické|Všechny činnosti
+│   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Čtenářská gramotnost
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Čtenářská gramotnost|Cizí jazyk
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Čtenářská gramotnost|Dramatické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Čtenářská gramotnost|Ekologie
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Čtenářská gramotnost|Environmentální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Čtenářská gramotnost|Etické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Čtenářská gramotnost|Grafomotorické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Čtenářská gramotnost|Hudební
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Čtenářská gramotnost|Jazykové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Čtenářská gramotnost|Literární
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Čtenářská gramotnost|Logopedické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Čtenářská gramotnost|Multikulturní
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Čtenářská gramotnost|Pohybové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Čtenářská gramotnost|Poznávací
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Čtenářská gramotnost|Poznávací, rozumové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Čtenářská gramotnost|Předmatematické
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Čtenářská gramotnost|Sexuální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Čtenářská gramotnost|Smyslové, citové
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Čtenářská gramotnost|Sociální
+│   │   │   │   ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Čtenářská gramotnost|Výtvarné
+│   │   │   │   └── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Čtenářská gramotnost|Všechny činnosti
+│   │   │   └── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Škola v přírodě
+│   │   │       ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Škola v přírodě|Cizí jazyk
+│   │   │       ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Škola v přírodě|Dramatické
+│   │   │       ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Škola v přírodě|Ekologie
+│   │   │       ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Škola v přírodě|Environmentální
+│   │   │       ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Škola v přírodě|Etické
+│   │   │       ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Škola v přírodě|Grafomotorické
+│   │   │       ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Škola v přírodě|Hudební
+│   │   │       ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Škola v přírodě|Jazykové
+│   │   │       ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Škola v přírodě|Literární
+│   │   │       ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Škola v přírodě|Logopedické
+│   │   │       ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Škola v přírodě|Multikulturní
+│   │   │       ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Škola v přírodě|Pohybové
+│   │   │       ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Škola v přírodě|Poznávací
+│   │   │       ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Škola v přírodě|Poznávací, rozumové
+│   │   │       ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Škola v přírodě|Předmatematické
+│   │   │       ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Škola v přírodě|Sexuální
+│   │   │       ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Škola v přírodě|Smyslové, citové
+│   │   │       ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Škola v přírodě|Sociální
+│   │   │       ├── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Škola v přírodě|Výtvarné
+│   │   │       └── Předškolní vzdělávání|Výuka|Dílčí (zaměřené)|Škola v přírodě|Všechny činnosti
+│   │   ├── Předškolní vzdělávání|Výuka|Integrované bloky
+│   │   └── Předškolní vzdělávání|Výuka|Základní
+│   │       ├── Předškolní vzdělávání|Výuka|Základní|Dlouhodobé
+│   │       ├── Předškolní vzdělávání|Výuka|Základní|Krátkodobé
+│   │       ├── Předškolní vzdělávání|Výuka|Základní|Lekce
+│   │       └── Předškolní vzdělávání|Výuka|Základní|Střednědobé
+│   └── Předškolní vzdělávání|Škola
+│       ├── Předškolní vzdělávání|Škola|Autoevaluace školy
+│       │   ├── Předškolní vzdělávání|Škola|Autoevaluace školy|Modely pro hodnocení kvality
+│       │   ├── Předškolní vzdělávání|Škola|Autoevaluace školy|Podmínky ke vzdělávání
+│       │   ├── Předškolní vzdělávání|Škola|Autoevaluace školy|Podpora školy žákům
+│       │   ├── Předškolní vzdělávání|Škola|Autoevaluace školy|Průběh vzdělávání
+│       │   ├── Předškolní vzdělávání|Škola|Autoevaluace školy|Výsledky vzdělávání žáků a studentů
+│       │   ├── Předškolní vzdělávání|Škola|Autoevaluace školy|obecné informace
+│       │   ├── Předškolní vzdělávání|Škola|Autoevaluace školy|Úroveň výsledků práce školy
+│       │   └── Předškolní vzdělávání|Škola|Autoevaluace školy|Řízení školy
+│       ├── Předškolní vzdělávání|Škola|Klima školy
+│       │   ├── Předškolní vzdělávání|Škola|Klima školy|Partnerství
+│       │   ├── Předškolní vzdělávání|Škola|Klima školy|Prostředí
+│       │   └── Předškolní vzdělávání|Škola|Klima školy|Výuka
+│       ├── Předškolní vzdělávání|Škola|Pomáhající profese
+│       │   ├── Předškolní vzdělávání|Škola|Pomáhající profese|Metodické pokyny
+│       │   ├── Předškolní vzdělávání|Škola|Pomáhající profese|Oznamovací povinnost škol a školských zařízení
+│       │   ├── Předškolní vzdělávání|Škola|Pomáhající profese|Pomáhající profese - pomoc v krizi
+│       │   ├── Předškolní vzdělávání|Škola|Pomáhající profese|Pomáhající profese ve vztahu ke školství
+│       │   └── Předškolní vzdělávání|Škola|Pomáhající profese|Výchovná školská zařízení
+│       ├── Předškolní vzdělávání|Škola|Přípravné třídy
+│       └── Předškolní vzdělávání|Škola|Školská dokumentace
+├── Speciální vzdělávání
+│   ├── Speciální vzdělávání|Kurikulum
+│   │   ├── Speciální vzdělávání|Kurikulum|Proces tvorby
+│   │   └── Speciální vzdělávání|Kurikulum|Příklady zpracování
+│   ├── Speciální vzdělávání|Okolí
+│   │   ├── Speciální vzdělávání|Okolí|Firmy
+│   │   ├── Speciální vzdělávání|Okolí|Inspirace - Pohled za hranice
+│   │   ├── Speciální vzdělávání|Okolí|Instituce
+│   │   ├── Speciální vzdělávání|Okolí|Lidé
+│   │   ├── Speciální vzdělávání|Okolí|Ostatní
+│   │   ├── Speciální vzdělávání|Okolí|Projekty
+│   │   ├── Speciální vzdělávání|Okolí|Tradice a zkušenosti
+│   │   │   ├── Speciální vzdělávání|Okolí|Tradice a zkušenosti|Inspirace a zkušenosti
+│   │   │   ├── Speciální vzdělávání|Okolí|Tradice a zkušenosti|Osobnosti
+│   │   │   └── Speciální vzdělávání|Okolí|Tradice a zkušenosti|Reformy
+│   │   ├── Speciální vzdělávání|Okolí|Zajímavé rozhovory
+│   │   └── Speciální vzdělávání|Okolí|Školy
+│   ├── Speciální vzdělávání|Učitel
+│   │   ├── Speciální vzdělávání|Učitel|Asistent pedagoga
+│   │   ├── Speciální vzdělávání|Učitel|Didaktika
+│   │   ├── Speciální vzdělávání|Učitel|Hodnocení žáků
+│   │   │   ├── Speciální vzdělávání|Učitel|Hodnocení žáků|Literatura
+│   │   │   ├── Speciální vzdělávání|Učitel|Hodnocení žáků|Různé formy hodnocení
+│   │   │   └── Speciální vzdělávání|Učitel|Hodnocení žáků|Sebehodnocení žáka
+│   │   ├── Speciální vzdělávání|Učitel|Inkluzivní vzdělávání
+│   │   │   ├── Speciální vzdělávání|Učitel|Inkluzivní vzdělávání|Ostatní menšiny
+│   │   │   ├── Speciální vzdělávání|Učitel|Inkluzivní vzdělávání|Vzdělávání Romů
+│   │   │   └── Speciální vzdělávání|Učitel|Inkluzivní vzdělávání|Vzdělávání cizinců
+│   │   ├── Speciální vzdělávání|Učitel|Management
+│   │   ├── Speciální vzdělávání|Učitel|Pedagogika
+│   │   ├── Speciální vzdělávání|Učitel|Prevence
+│   │   ├── Speciální vzdělávání|Učitel|Psychologie
+│   │   └── Speciální vzdělávání|Učitel|Vzdělávání žáků cizinců
+│   ├── Speciální vzdělávání|Výuka
+│   │   ├── Speciální vzdělávání|Výuka|Gymnaziální vzdělávání
+│   │   ├── Speciální vzdělávání|Výuka|Jazykové vzdělávání
+│   │   ├── Speciální vzdělávání|Výuka|Odborné vzdělávání
+│   │   ├── Speciální vzdělávání|Výuka|Předškolní vzdělávání
+│   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání
+│   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Gramotnosti
+│   │   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Gramotnosti|Finanční gramotnost
+│   │   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Gramotnosti|Matematická gramotnost
+│   │   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Gramotnosti|Přírodovědná gramotnost
+│   │   │   │   └── Speciální vzdělávání|Výuka|Speciální vzdělávání|Gramotnosti|Čtenářská gramotnost
+│   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Informační a komunikační technologie
+│   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Jazyková komunikace
+│   │   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Jazyková komunikace|psaní
+│   │   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Jazyková komunikace|čtení
+│   │   │   │   └── Speciální vzdělávání|Výuka|Speciální vzdělávání|Jazyková komunikace|řečová výchova
+│   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Klíčové kompetence
+│   │   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Klíčové kompetence|Hodnocení / ověřování
+│   │   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Klíčové kompetence|Praktické náměty
+│   │   │   │   └── Speciální vzdělávání|Výuka|Speciální vzdělávání|Klíčové kompetence|Teorie
+│   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Matematika a její aplikace
+│   │   │   │   └── Speciální vzdělávání|Výuka|Speciální vzdělávání|Matematika a její aplikace|matematika
+│   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Průřezová témata
+│   │   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Průřezová témata|ENV
+│   │   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Průřezová témata|MKV
+│   │   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Průřezová témata|MV
+│   │   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Průřezová témata|OSV
+│   │   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Průřezová témata|VDO
+│   │   │   │   └── Speciální vzdělávání|Výuka|Speciální vzdělávání|Průřezová témata|VMEGS
+│   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Umění a kultura
+│   │   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Umění a kultura|Hudební výchova
+│   │   │   │   └── Speciální vzdělávání|Výuka|Speciální vzdělávání|Umění a kultura|Výtvarná výchova
+│   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Člověk a jeho svět
+│   │   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Člověk a jeho svět|Smyslová výchova
+│   │   │   │   └── Speciální vzdělávání|Výuka|Speciální vzdělávání|Člověk a jeho svět|Člověk a jeho svět
+│   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Člověk a komunikace
+│   │   │   │   └── Speciální vzdělávání|Výuka|Speciální vzdělávání|Člověk a komunikace|rozumová výchova
+│   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Člověk a příroda
+│   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Člověk a společnost
+│   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Člověk a svět práce
+│   │   │   │   ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Člověk a svět práce|pracovní výchova
+│   │   │   │   └── Speciální vzdělávání|Výuka|Speciální vzdělávání|Člověk a svět práce|člověk a svět práce
+│   │   │   └── Speciální vzdělávání|Výuka|Speciální vzdělávání|Člověk a zdraví
+│   │   │       ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Člověk a zdraví|Tělesná výchova
+│   │   │       ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Člověk a zdraví|Výchova ke zdraví
+│   │   │       ├── Speciální vzdělávání|Výuka|Speciální vzdělávání|Člověk a zdraví|pohybová výchova
+│   │   │       └── Speciální vzdělávání|Výuka|Speciální vzdělávání|Člověk a zdraví|zdravotní a rehabilitační tělesná výchova
+│   │   ├── Speciální vzdělávání|Výuka|Základní umělecké vzdělávání
+│   │   └── Speciální vzdělávání|Výuka|Základní vzdělávání
+│   └── Speciální vzdělávání|Škola
+│       ├── Speciální vzdělávání|Škola|Autoevaluace školy
+│       │   ├── Speciální vzdělávání|Škola|Autoevaluace školy|Modely pro hodnocení kvality
+│       │   ├── Speciální vzdělávání|Škola|Autoevaluace školy|Podmínky ke vzdělávání
+│       │   ├── Speciální vzdělávání|Škola|Autoevaluace školy|Podpora školy žákům
+│       │   ├── Speciální vzdělávání|Škola|Autoevaluace školy|Průběh vzdělávání
+│       │   ├── Speciální vzdělávání|Škola|Autoevaluace školy|Výsledky vzdělávání žáků a studentů
+│       │   ├── Speciální vzdělávání|Škola|Autoevaluace školy|obecné informace
+│       │   ├── Speciální vzdělávání|Škola|Autoevaluace školy|Úroveň výsledků práce školy
+│       │   └── Speciální vzdělávání|Škola|Autoevaluace školy|Řízení školy
+│       ├── Speciální vzdělávání|Škola|Klima školy
+│       │   ├── Speciální vzdělávání|Škola|Klima školy|Partnerství
+│       │   ├── Speciální vzdělávání|Škola|Klima školy|Prostředí
+│       │   └── Speciální vzdělávání|Škola|Klima školy|Výuka
+│       ├── Speciální vzdělávání|Škola|Pomáhající profese
+│       │   ├── Speciální vzdělávání|Škola|Pomáhající profese|Metodické pokyny
+│       │   ├── Speciální vzdělávání|Škola|Pomáhající profese|Oznamovací povinnost škol a školských zařízení
+│       │   ├── Speciální vzdělávání|Škola|Pomáhající profese|Pomáhající profese - pomoc v krizi
+│       │   ├── Speciální vzdělávání|Škola|Pomáhající profese|Pomáhající profese ve vztahu ke školství
+│       │   └── Speciální vzdělávání|Škola|Pomáhající profese|Výchovná školská zařízení
+│       ├── Speciální vzdělávání|Škola|Přípravné třídy
+│       └── Speciální vzdělávání|Škola|Školská dokumentace
+├── Základní umělecké vzdělávání
+│   ├── Základní umělecké vzdělávání|Kurikulum
+│   │   ├── Základní umělecké vzdělávání|Kurikulum|Proces tvorby
+│   │   └── Základní umělecké vzdělávání|Kurikulum|Příklady zpracování
+│   ├── Základní umělecké vzdělávání|Okolí
+│   │   ├── Základní umělecké vzdělávání|Okolí|Firmy
+│   │   ├── Základní umělecké vzdělávání|Okolí|Inspirace - pohled za hranice
+│   │   ├── Základní umělecké vzdělávání|Okolí|Instituce
+│   │   ├── Základní umělecké vzdělávání|Okolí|Lidé
+│   │   ├── Základní umělecké vzdělávání|Okolí|Tradice a zkušenosti
+│   │   │   ├── Základní umělecké vzdělávání|Okolí|Tradice a zkušenosti|Inspirace a zkušenosti
+│   │   │   ├── Základní umělecké vzdělávání|Okolí|Tradice a zkušenosti|Osobnosti
+│   │   │   └── Základní umělecké vzdělávání|Okolí|Tradice a zkušenosti|Reformy
+│   │   ├── Základní umělecké vzdělávání|Okolí|Zajímavé rozhovory
+│   │   └── Základní umělecké vzdělávání|Okolí|Školy
+│   ├── Základní umělecké vzdělávání|Učitel
+│   │   ├── Základní umělecké vzdělávání|Učitel|Didaktika
+│   │   ├── Základní umělecké vzdělávání|Učitel|Hodnocení žáků
+│   │   │   ├── Základní umělecké vzdělávání|Učitel|Hodnocení žáků|Literatura
+│   │   │   ├── Základní umělecké vzdělávání|Učitel|Hodnocení žáků|Různé formy hodnocení
+│   │   │   └── Základní umělecké vzdělávání|Učitel|Hodnocení žáků|Sebehodnocení žáka
+│   │   ├── Základní umělecké vzdělávání|Učitel|Management
+│   │   ├── Základní umělecké vzdělávání|Učitel|Psychologie
+│   │   ├── Základní umělecké vzdělávání|Učitel|Speciální vzdělávání
+│   │   └── Základní umělecké vzdělávání|Učitel|Vzdělávání žáků cizinců
+│   ├── Základní umělecké vzdělávání|Výuka
+│   │   ├── Základní umělecké vzdělávání|Výuka|Dramatický obor
+│   │   │   ├── Základní umělecké vzdělávání|Výuka|Dramatický obor|Dramatická tvorba
+│   │   │   ├── Základní umělecké vzdělávání|Výuka|Dramatický obor|Loutkářská tvorba
+│   │   │   └── Základní umělecké vzdělávání|Výuka|Dramatický obor|Slovesná tvorba
+│   │   ├── Základní umělecké vzdělávání|Výuka|Hudební obor
+│   │   │   ├── Základní umělecké vzdělávání|Výuka|Hudební obor|Elektronické zpracování hudby a zvuková tvorba
+│   │   │   ├── Základní umělecké vzdělávání|Výuka|Hudební obor|Hra na akordeon
+│   │   │   ├── Základní umělecké vzdělávání|Výuka|Hudební obor|Hra na bicí nástroje
+│   │   │   ├── Základní umělecké vzdělávání|Výuka|Hudební obor|Hra na cimbál
+│   │   │   ├── Základní umělecké vzdělávání|Výuka|Hudební obor|Hra na dechové nástroje
+│   │   │   ├── Základní umělecké vzdělávání|Výuka|Hudební obor|Hra na dudy
+│   │   │   ├── Základní umělecké vzdělávání|Výuka|Hudební obor|Hra na klávesové nástroje
+│   │   │   ├── Základní umělecké vzdělávání|Výuka|Hudební obor|Hra na smyčcové nástroje
+│   │   │   ├── Základní umělecké vzdělávání|Výuka|Hudební obor|Hra na strunné nástroje
+│   │   │   ├── Základní umělecké vzdělávání|Výuka|Hudební obor|Nauka o hudbě
+│   │   │   ├── Základní umělecké vzdělávání|Výuka|Hudební obor|Sborový zpěv
+│   │   │   ├── Základní umělecké vzdělávání|Výuka|Hudební obor|Skladba
+│   │   │   └── Základní umělecké vzdělávání|Výuka|Hudební obor|Sólový zpěv
+│   │   ├── Základní umělecké vzdělávání|Výuka|Klíčové kompetence
+│   │   │   ├── Základní umělecké vzdělávání|Výuka|Klíčové kompetence|Hodnocení / ověřování
+│   │   │   ├── Základní umělecké vzdělávání|Výuka|Klíčové kompetence|Kompetence k umělecké komunikaci
+│   │   │   ├── Základní umělecké vzdělávání|Výuka|Klíčové kompetence|Kompetence kulturní
+│   │   │   └── Základní umělecké vzdělávání|Výuka|Klíčové kompetence|Kompetence osobnostně sociální
+│   │   ├── Základní umělecké vzdělávání|Výuka|Taneční obor
+│   │   │   ├── Základní umělecké vzdělávání|Výuka|Taneční obor|Recepce a reflexe tanečního umění
+│   │   │   └── Základní umělecké vzdělávání|Výuka|Taneční obor|Taneční produkce a interpretace
+│   │   ├── Základní umělecké vzdělávání|Výuka|Výtvarný obor
+│   │   │   ├── Základní umělecké vzdělávání|Výuka|Výtvarný obor|Výtvarná kultura
+│   │   │   └── Základní umělecké vzdělávání|Výuka|Výtvarný obor|Výtvarné vyjádření
+│   │   └── Základní umělecké vzdělávání|Výuka|Školní projekty
+│   └── Základní umělecké vzdělávání|Škola
+│       ├── Základní umělecké vzdělávání|Škola|Autoevaluace školy
+│       │   ├── Základní umělecké vzdělávání|Škola|Autoevaluace školy|Modely pro hodnocení kvality
+│       │   ├── Základní umělecké vzdělávání|Škola|Autoevaluace školy|Podmínky ke vzdělávání
+│       │   ├── Základní umělecké vzdělávání|Škola|Autoevaluace školy|Podpora školy žákům
+│       │   ├── Základní umělecké vzdělávání|Škola|Autoevaluace školy|Průběh vzdělávání
+│       │   ├── Základní umělecké vzdělávání|Škola|Autoevaluace školy|Výsledky vzdělávání žáků a studentů
+│       │   ├── Základní umělecké vzdělávání|Škola|Autoevaluace školy|obecné informace
+│       │   ├── Základní umělecké vzdělávání|Škola|Autoevaluace školy|Úroveň výsledků práce školy
+│       │   └── Základní umělecké vzdělávání|Škola|Autoevaluace školy|Řízení školy
+│       ├── Základní umělecké vzdělávání|Škola|Klima školy
+│       │   ├── Základní umělecké vzdělávání|Škola|Klima školy|Partnerství
+│       │   ├── Základní umělecké vzdělávání|Škola|Klima školy|Prostředí
+│       │   └── Základní umělecké vzdělávání|Škola|Klima školy|Výuka
+│       └── Základní umělecké vzdělávání|Škola|Školská dokumentace
+└── Základní vzdělávání
+    ├── Základní vzdělávání|Kurikulum
+    │   ├── Základní vzdělávání|Kurikulum|Proces tvorby
+    │   └── Základní vzdělávání|Kurikulum|Příklady zpracování
+    ├── Základní vzdělávání|Okolí
+    │   ├── Základní vzdělávání|Okolí|Firmy
+    │   ├── Základní vzdělávání|Okolí|Inspirace - pohled za hranice
+    │   ├── Základní vzdělávání|Okolí|Instituce
+    │   ├── Základní vzdělávání|Okolí|Lidé
+    │   ├── Základní vzdělávání|Okolí|Ostatní
+    │   ├── Základní vzdělávání|Okolí|Projekty
+    │   ├── Základní vzdělávání|Okolí|Tradice a zkušenosti
+    │   │   ├── Základní vzdělávání|Okolí|Tradice a zkušenosti|Inspirace a zkušenosti
+    │   │   ├── Základní vzdělávání|Okolí|Tradice a zkušenosti|Osobnosti
+    │   │   └── Základní vzdělávání|Okolí|Tradice a zkušenosti|Reformy
+    │   ├── Základní vzdělávání|Okolí|Zajímavé rozhovory
+    │   └── Základní vzdělávání|Okolí|Školy
+    ├── Základní vzdělávání|Učitel
+    │   ├── Základní vzdělávání|Učitel|Didaktika
+    │   ├── Základní vzdělávání|Učitel|Hodnocení žáků
+    │   │   ├── Základní vzdělávání|Učitel|Hodnocení žáků|Literatura
+    │   │   ├── Základní vzdělávání|Učitel|Hodnocení žáků|Různé formy hodnocení
+    │   │   └── Základní vzdělávání|Učitel|Hodnocení žáků|Sebehodnocení žáka
+    │   ├── Základní vzdělávání|Učitel|Inkluzivní vzdělávání
+    │   │   ├── Základní vzdělávání|Učitel|Inkluzivní vzdělávání|Ostatní menšiny
+    │   │   ├── Základní vzdělávání|Učitel|Inkluzivní vzdělávání|Vzdělávání Romů
+    │   │   └── Základní vzdělávání|Učitel|Inkluzivní vzdělávání|Vzdělávání cizinců
+    │   ├── Základní vzdělávání|Učitel|Management
+    │   ├── Základní vzdělávání|Učitel|Nadaní žáci
+    │   │   ├── Základní vzdělávání|Učitel|Nadaní žáci|Legislativa a poradenství
+    │   │   ├── Základní vzdělávání|Učitel|Nadaní žáci|Metodická podpora
+    │   │   └── Základní vzdělávání|Učitel|Nadaní žáci|Teorie a výzkum
+    │   ├── Základní vzdělávání|Učitel|Pedagogika
+    │   ├── Základní vzdělávání|Učitel|Prevence
+    │   ├── Základní vzdělávání|Učitel|Psychologie
+    │   ├── Základní vzdělávání|Učitel|Speciální vzdělávání
+    │   └── Základní vzdělávání|Učitel|Vzdělávání žáků cizinců
+    ├── Základní vzdělávání|Výuka
+    │   ├── Základní vzdělávání|Výuka|Doplňující vzdělávací obory
+    │   │   ├── Základní vzdělávání|Výuka|Doplňující vzdělávací obory|Další cizí jazyk
+    │   │   │   ├── Základní vzdělávání|Výuka|Doplňující vzdělávací obory|Další cizí jazyk|Interaktivní řečové dovednosti
+    │   │   │   ├── Základní vzdělávání|Výuka|Doplňující vzdělávací obory|Další cizí jazyk|Produktivní řečové dovednosti
+    │   │   │   └── Základní vzdělávání|Výuka|Doplňující vzdělávací obory|Další cizí jazyk|Receptivní řečové dovednosti
+    │   │   ├── Základní vzdělávání|Výuka|Doplňující vzdělávací obory|Dramatická výchova
+    │   │   └── Základní vzdělávání|Výuka|Doplňující vzdělávací obory|Etická výchova
+    │   ├── Základní vzdělávání|Výuka|Gramotnosti
+    │   │   ├── Základní vzdělávání|Výuka|Gramotnosti|Finanční gramotnost
+    │   │   ├── Základní vzdělávání|Výuka|Gramotnosti|Matematická gramotnost
+    │   │   ├── Základní vzdělávání|Výuka|Gramotnosti|Přírodovědná gramotnost
+    │   │   └── Základní vzdělávání|Výuka|Gramotnosti|Čtenářská gramotnost
+    │   ├── Základní vzdělávání|Výuka|Informační a komunikační technologie
+    │   │   ├── Základní vzdělávání|Výuka|Informační a komunikační technologie|Vyhledávání informací a komunikace
+    │   │   ├── Základní vzdělávání|Výuka|Informační a komunikační technologie|Zpracování a využití informací
+    │   │   └── Základní vzdělávání|Výuka|Informační a komunikační technologie|Základy práce s počítačem
+    │   ├── Základní vzdělávání|Výuka|Integrované předměty
+    │   ├── Základní vzdělávání|Výuka|Jazyk a jazyková komunikace
+    │   │   ├── Základní vzdělávání|Výuka|Jazyk a jazyková komunikace|Cizí jazyk
+    │   │   │   ├── Základní vzdělávání|Výuka|Jazyk a jazyková komunikace|Cizí jazyk|Interaktivní řečové dovednosti
+    │   │   │   ├── Základní vzdělávání|Výuka|Jazyk a jazyková komunikace|Cizí jazyk|Produktivní řečové dovednosti
+    │   │   │   ├── Základní vzdělávání|Výuka|Jazyk a jazyková komunikace|Cizí jazyk|Receptivní řečové dovednosti
+    │   │   │   └── Základní vzdělávání|Výuka|Jazyk a jazyková komunikace|Cizí jazyk|Receptivní, produktivní a interaktivní řečové dovednosti
+    │   │   └── Základní vzdělávání|Výuka|Jazyk a jazyková komunikace|Český jazyk a literatura
+    │   │       ├── Základní vzdělávání|Výuka|Jazyk a jazyková komunikace|Český jazyk a literatura|Jazyková výchova
+    │   │       ├── Základní vzdělávání|Výuka|Jazyk a jazyková komunikace|Český jazyk a literatura|Komunikační a slohová výchova
+    │   │       └── Základní vzdělávání|Výuka|Jazyk a jazyková komunikace|Český jazyk a literatura|Literární výchova
+    │   ├── Základní vzdělávání|Výuka|Jiné vzdělávací obory
+    │   ├── Základní vzdělávání|Výuka|Klíčové kompetence
+    │   │   ├── Základní vzdělávání|Výuka|Klíčové kompetence|Kompetence k učení
+    │   │   ├── Základní vzdělávání|Výuka|Klíčové kompetence|Kompetence k řešení problémů
+    │   │   ├── Základní vzdělávání|Výuka|Klíčové kompetence|Kompetence komunikativní
+    │   │   ├── Základní vzdělávání|Výuka|Klíčové kompetence|Kompetence občanská
+    │   │   ├── Základní vzdělávání|Výuka|Klíčové kompetence|Kompetence pracovní
+    │   │   └── Základní vzdělávání|Výuka|Klíčové kompetence|Kompetence sociální a personální
+    │   ├── Základní vzdělávání|Výuka|Matematika a její aplikace
+    │   │   ├── Základní vzdělávání|Výuka|Matematika a její aplikace|Geometrie v rovině a v prostoru
+    │   │   ├── Základní vzdělávání|Výuka|Matematika a její aplikace|Nestandardní aplikační úlohy a problémy
+    │   │   ├── Základní vzdělávání|Výuka|Matematika a její aplikace|Závislosti, vztahy a práce s daty
+    │   │   ├── Základní vzdělávání|Výuka|Matematika a její aplikace|Číslo a početní operace
+    │   │   └── Základní vzdělávání|Výuka|Matematika a její aplikace|Číslo a proměnná
+    │   ├── Základní vzdělávání|Výuka|Průřezová témata
+    │   │   ├── Základní vzdělávání|Výuka|Průřezová témata|ENV
+    │   │   ├── Základní vzdělávání|Výuka|Průřezová témata|MKV
+    │   │   ├── Základní vzdělávání|Výuka|Průřezová témata|MV
+    │   │   ├── Základní vzdělávání|Výuka|Průřezová témata|OSV
+    │   │   ├── Základní vzdělávání|Výuka|Průřezová témata|VDO
+    │   │   └── Základní vzdělávání|Výuka|Průřezová témata|VMEGS
+    │   ├── Základní vzdělávání|Výuka|Umění a kultura
+    │   │   ├── Základní vzdělávání|Výuka|Umění a kultura|Hudební výchova
+    │   │   └── Základní vzdělávání|Výuka|Umění a kultura|Výtvarná výchova
+    │   ├── Základní vzdělávání|Výuka|Člověk a příroda
+    │   │   ├── Základní vzdělávání|Výuka|Člověk a příroda|Chemie
+    │   │   │   ├── Základní vzdělávání|Výuka|Člověk a příroda|Chemie|Chemické reakce
+    │   │   │   ├── Základní vzdělávání|Výuka|Člověk a příroda|Chemie|Chemie a společnost
+    │   │   │   ├── Základní vzdělávání|Výuka|Člověk a příroda|Chemie|Organické sloučeniny
+    │   │   │   ├── Základní vzdělávání|Výuka|Člověk a příroda|Chemie|Pozorování, pokus a bezpečnost práce
+    │   │   │   ├── Základní vzdělávání|Výuka|Člověk a příroda|Chemie|Směsi
+    │   │   │   └── Základní vzdělávání|Výuka|Člověk a příroda|Chemie|Částicové složení látek a chemické prvky
+    │   │   ├── Základní vzdělávání|Výuka|Člověk a příroda|Fyzika
+    │   │   │   ├── Základní vzdělávání|Výuka|Člověk a příroda|Fyzika|Elektromagnetické a světelné děje
+    │   │   │   ├── Základní vzdělávání|Výuka|Člověk a příroda|Fyzika|Energie
+    │   │   │   ├── Základní vzdělávání|Výuka|Člověk a příroda|Fyzika|Látky a tělesa
+    │   │   │   ├── Základní vzdělávání|Výuka|Člověk a příroda|Fyzika|Mechanické vlastnosti tekutin
+    │   │   │   ├── Základní vzdělávání|Výuka|Člověk a příroda|Fyzika|Pohyb těles, síly
+    │   │   │   ├── Základní vzdělávání|Výuka|Člověk a příroda|Fyzika|Vesmír
+    │   │   │   └── Základní vzdělávání|Výuka|Člověk a příroda|Fyzika|Zvukové děje
+    │   │   ├── Základní vzdělávání|Výuka|Člověk a příroda|Přírodopis
+    │   │   │   ├── Základní vzdělávání|Výuka|Člověk a příroda|Přírodopis|Biologie hub
+    │   │   │   ├── Základní vzdělávání|Výuka|Člověk a příroda|Přírodopis|Biologie rostlin
+    │   │   │   ├── Základní vzdělávání|Výuka|Člověk a příroda|Přírodopis|Biologie živočichů
+    │   │   │   ├── Základní vzdělávání|Výuka|Člověk a příroda|Přírodopis|Neživá příroda
+    │   │   │   ├── Základní vzdělávání|Výuka|Člověk a příroda|Přírodopis|Obecná biologie a genetika
+    │   │   │   ├── Základní vzdělávání|Výuka|Člověk a příroda|Přírodopis|Praktické poznávání přírody
+    │   │   │   └── Základní vzdělávání|Výuka|Člověk a příroda|Přírodopis|Základy ekologie
+    │   │   └── Základní vzdělávání|Výuka|Člověk a příroda|Zeměpis (Geografie)
+    │   │       ├── Základní vzdělávání|Výuka|Člověk a příroda|Zeměpis (Geografie)|Geografické informace, zdroje dat, kartografie a topografie
+    │   │       ├── Základní vzdělávání|Výuka|Člověk a příroda|Zeměpis (Geografie)|Přírodní obraz Země
+    │   │       ├── Základní vzdělávání|Výuka|Člověk a příroda|Zeměpis (Geografie)|Regiony světa
+    │   │       ├── Základní vzdělávání|Výuka|Člověk a příroda|Zeměpis (Geografie)|Společenské a hospodářské prostředí
+    │   │       ├── Základní vzdělávání|Výuka|Člověk a příroda|Zeměpis (Geografie)|Terénní geografická výuka, praxe a aplikace
+    │   │       ├── Základní vzdělávání|Výuka|Člověk a příroda|Zeměpis (Geografie)|Česká republika
+    │   │       └── Základní vzdělávání|Výuka|Člověk a příroda|Zeměpis (Geografie)|Životní prostředí
+    │   ├── Základní vzdělávání|Výuka|Člověk a společnost
+    │   │   ├── Základní vzdělávání|Výuka|Člověk a společnost|Dějepis
+    │   │   │   ├── Základní vzdělávání|Výuka|Člověk a společnost|Dějepis|Křesťanství a středověká Evropa
+    │   │   │   ├── Základní vzdělávání|Výuka|Člověk a společnost|Dějepis|Modernizace společnosti
+    │   │   │   ├── Základní vzdělávání|Výuka|Člověk a společnost|Dějepis|Moderní doba
+    │   │   │   ├── Základní vzdělávání|Výuka|Člověk a společnost|Dějepis|Nejstarší civilizace. Kořeny evropské kultury
+    │   │   │   ├── Základní vzdělávání|Výuka|Člověk a společnost|Dějepis|Objevy a dobývání. Počátky nové doby
+    │   │   │   ├── Základní vzdělávání|Výuka|Člověk a společnost|Dějepis|Počátky lidské společnosti
+    │   │   │   ├── Základní vzdělávání|Výuka|Člověk a společnost|Dějepis|Rozdělený a integrující se svět
+    │   │   │   └── Základní vzdělávání|Výuka|Člověk a společnost|Dějepis|Člověk v dějinách
+    │   │   └── Základní vzdělávání|Výuka|Člověk a společnost|Výchova k občanství
+    │   │       ├── Základní vzdělávání|Výuka|Člověk a společnost|Výchova k občanství|Mezinárodní vztahy, globální svět
+    │   │       ├── Základní vzdělávání|Výuka|Člověk a společnost|Výchova k občanství|Stát a hospodářství
+    │   │       ├── Základní vzdělávání|Výuka|Člověk a společnost|Výchova k občanství|Stát a právo
+    │   │       ├── Základní vzdělávání|Výuka|Člověk a společnost|Výchova k občanství|Člověk jako jedinec
+    │   │       └── Základní vzdělávání|Výuka|Člověk a společnost|Výchova k občanství|Člověk ve společnosti
+    │   ├── Základní vzdělávání|Výuka|Člověk a svět práce
+    │   │   ├── Základní vzdělávání|Výuka|Člověk a svět práce|Design a konstruování
+    │   │   ├── Základní vzdělávání|Výuka|Člověk a svět práce|Konstrukční činnosti
+    │   │   ├── Základní vzdělávání|Výuka|Člověk a svět práce|Práce s drobným materiálem
+    │   │   ├── Základní vzdělávání|Výuka|Člověk a svět práce|Příprava pokrmů
+    │   │   ├── Základní vzdělávání|Výuka|Člověk a svět práce|Svět práce
+    │   │   └── Základní vzdělávání|Výuka|Člověk a svět práce|Využití digitálních technologií
+    │   ├── Základní vzdělávání|Výuka|Člověk a zdraví
+    │   │   ├── Základní vzdělávání|Výuka|Člověk a zdraví|Tělesná výchova
+    │   │   │   ├── Základní vzdělávání|Výuka|Člověk a zdraví|Tělesná výchova|Činnosti ovlivňující zdraví
+    │   │   │   ├── Základní vzdělávání|Výuka|Člověk a zdraví|Tělesná výchova|Činnosti ovlivňující úroveň pohybových dovedností
+    │   │   │   └── Základní vzdělávání|Výuka|Člověk a zdraví|Tělesná výchova|Činnosti podporující pohybové učení
+    │   │   └── Základní vzdělávání|Výuka|Člověk a zdraví|Výchova ke zdraví
+    │   ├── Základní vzdělávání|Výuka|Člověka jeho svět
+    │   │   ├── Základní vzdělávání|Výuka|Člověka jeho svět|Lidé a čas
+    │   │   ├── Základní vzdělávání|Výuka|Člověka jeho svět|Lidé kolem nás
+    │   │   ├── Základní vzdělávání|Výuka|Člověka jeho svět|Místo, kde žijeme
+    │   │   ├── Základní vzdělávání|Výuka|Člověka jeho svět|Rozmanitost přírody
+    │   │   └── Základní vzdělávání|Výuka|Člověka jeho svět|Člověk a jeho zdraví
+    │   └── Základní vzdělávání|Výuka|Školní projekty
+    └── Základní vzdělávání|Škola
+        ├── Základní vzdělávání|Škola|Autoevaluace školy
+        │   ├── Základní vzdělávání|Škola|Autoevaluace školy|Modely pro hodnocení kvality
+        │   ├── Základní vzdělávání|Škola|Autoevaluace školy|Podmínky ke vzdělávání
+        │   ├── Základní vzdělávání|Škola|Autoevaluace školy|Podpora školy žákům
+        │   ├── Základní vzdělávání|Škola|Autoevaluace školy|Průběh vzdělávání
+        │   ├── Základní vzdělávání|Škola|Autoevaluace školy|Výsledky vzdělávání žáků a studentů
+        │   ├── Základní vzdělávání|Škola|Autoevaluace školy|Úroveň výsledků práce školy
+        │   └── Základní vzdělávání|Škola|Autoevaluace školy|Řízení školy
+        ├── Základní vzdělávání|Škola|EVVO
+        ├── Základní vzdělávání|Škola|Klima školy
+        │   ├── Základní vzdělávání|Škola|Klima školy|Partnerství
+        │   ├── Základní vzdělávání|Škola|Klima školy|Prostředí
+        │   └── Základní vzdělávání|Škola|Klima školy|Výuka
+        ├── Základní vzdělávání|Škola|Málotřídní školy
+        ├── Základní vzdělávání|Škola|Pomáhající profese
+        │   ├── Základní vzdělávání|Škola|Pomáhající profese|Metodické pokyny
+        │   ├── Základní vzdělávání|Škola|Pomáhající profese|Oznamovací povinnost škol a školských zařízení
+        │   ├── Základní vzdělávání|Škola|Pomáhající profese|Pomáhající profese - pomoc v krizi
+        │   ├── Základní vzdělávání|Škola|Pomáhající profese|Pomáhající profese ve vztahu ke školství
+        │   └── Základní vzdělávání|Škola|Pomáhající profese|Výchovná školská zařízení
+        ├── Základní vzdělávání|Škola|Přípravné třídy
+        ├── Základní vzdělávání|Škola|Školní družina a klub
+        └── Základní vzdělávání|Škola|Školská dokumentace
